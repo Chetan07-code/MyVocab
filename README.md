@@ -2,7 +2,8 @@
 
 ### [Live Site](https://my-vocab1.herokuapp.com/)
 
-![Vocab Application](https://pasteboard.co/JWDcsXS.png)
+![Vocab](https://user-images.githubusercontent.com/76208914/114258871-63746680-99e7-11eb-8dd8-77d54f40e567.PNG)
+
 
 ## Information
 
